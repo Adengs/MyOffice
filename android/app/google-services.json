@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754367933676",
+    "project_id": "myoffice-firebase",
+    "storage_bucket": "myoffice-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754367933676:android:101eea84b36b4601bd09c9",
+        "android_client_info": {
+          "package_name": "com.example.myoffice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYsfNQxbvfH3P6WWDCG_WQKvaZ3mK0ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
